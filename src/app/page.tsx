@@ -14,7 +14,7 @@ export default function Home() {
       <img className="w-80" src="/images/contact_me_header.svg" />
       <div className="max-w-[500px]">
         feel free to contact me if you are interested in collaborations,
-        production work, or any further questions
+        production work, or any further questions.
       </div>
       <a href="royjkoerner@gmail.com">royjkoerner@gmail.com</a>
       <img className="w-80" src="/images/links_header.svg" />
