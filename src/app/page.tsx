@@ -6,10 +6,9 @@ export default function Home() {
       <img className="w-[252px]" src="/images/koiroy_header.svg" />
       <img className="w-[318px] -mb-[12px]" src="/images/about_me_header.svg" />
       <div className="max-w-[500px] font-light text-xl text-center mb-[10px]">
-        hey there! my name is roy, aka koiroy. i am a young musician from the
-        chicago area. I play jazz piano, and produce & compose music digitally.
-        i play piano in the jazzardous waste jazz trio, and i release music
-        online as koiroy.
+        my name is roy koerner, a young musician from the chicago area. i play
+        jazz piano, and produce & compose music digitally. i release electronic
+        music online as koiroy.
       </div>
       <img
         className="w-[244px] -mb-[12px]"
@@ -17,7 +16,7 @@ export default function Home() {
       />
       <div className="max-w-[500px] font-light text-xl text-center -mb-[10px]">
         feel free to contact me if you are interested in collaborations,
-        production work, or any further questions.
+        production work, or have any further questions.
       </div>
       <a
         className="text-[#FFC0D3] max-w-[500px] font-light text-xl mb-[10px]"
@@ -45,8 +44,11 @@ export default function Home() {
         >
           <img className="w-12" src="/images/btn_spotify.svg" />
         </a>
-        <a href="https://www.youtube.com/@cinnamoth5969" target="_blank">
+        <a href="https://www.youtube.com/@koiroymusic" target="_blank">
           <img className="w-12" src="/images/btn_youtube.svg" />
+        </a>
+        <a href="https://koiroy.bandcamp.com/" target="_blank">
+          <img className="w-12" src="/images/btn_bc.svg" />
         </a>
       </div>
     </div>
