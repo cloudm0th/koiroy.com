@@ -32,7 +32,7 @@ export default function Home() {
         >
           <img className="w-12" src="/images/btn_instagram.svg" />
         </a>
-        <a href="https://cinnamoth.newgrounds.com/" target="_blank">
+        <a href="https://koiroy.newgrounds.com/" target="_blank">
           <img className="w-12" src="/images/btn_ng.svg" />
         </a>
         <a href="https://soundcloud.com/rice_cake64" target="_blank">
