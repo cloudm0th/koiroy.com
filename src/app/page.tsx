@@ -26,17 +26,17 @@ export default function Home() {
       </a>
       <img className="w-[170px] -mb-[8px]" src="/images/links_header.svg" />
       <div className="inline-flex gap-4">
+        <a href="https://www.youtube.com/@koiroymusic" target="_blank">
+          <img className="w-12" src="/images/btn_youtube.svg" />
+        </a>
         <a
           href="https://www.instagram.com/koiroymusic/?next=%2F"
           target="_blank"
         >
           <img className="w-12" src="/images/btn_instagram.svg" />
         </a>
-        <a href="https://koiroy.newgrounds.com/" target="_blank">
-          <img className="w-12" src="/images/btn_ng.svg" />
-        </a>
-        <a href="https://soundcloud.com/rice_cake64" target="_blank">
-          <img className="w-12" src="/images/btn_soundcloud.svg" />
+        <a href="https://www.tiktok.com/@koiroymusic" target="_blank">
+          <img className="w-12" src="/images/btn_tt.svg" />
         </a>
         <a
           href="https://open.spotify.com/artist/6rCbNcQfvkX6Jxv7JyXBT5 "
@@ -44,11 +44,14 @@ export default function Home() {
         >
           <img className="w-12" src="/images/btn_spotify.svg" />
         </a>
-        <a href="https://www.youtube.com/@koiroymusic" target="_blank">
-          <img className="w-12" src="/images/btn_youtube.svg" />
+        <a href="https://soundcloud.com/rice_cake64" target="_blank">
+          <img className="w-12" src="/images/btn_soundcloud.svg" />
         </a>
         <a href="https://koiroy.bandcamp.com/" target="_blank">
           <img className="w-12" src="/images/btn_bc.svg" />
+        </a>
+        <a href="https://koiroy.newgrounds.com/" target="_blank">
+          <img className="w-12" src="/images/btn_ng.svg" />
         </a>
       </div>
     </div>
